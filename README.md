@@ -1,6 +1,13 @@
 # R-Filters
 iOS images filtration app with static cool filters and some animations.  
 
+This Project is built using:
+
+XCode 9.2
+Swift 4.0
+
+Application Parts:
+
 Part 1 Implement Filter and Compare functions
 
 1. When a user taps a filter button, the image view will be updated with the filtered image.
